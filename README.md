@@ -116,7 +116,7 @@ Profiles
 
 GitHub: https://github.com/Utkarsh-sengar3
 
-LinkedIn: Add your LinkedIn profile URL here
+LinkedIn: https://www.linkedin.com/in/utkarsh-sengar-a995a4334/?isSelfProfile=true
 
 Project Workflow
 
